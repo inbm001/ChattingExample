@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026805461563",
+    "firebase_url": "https://inbmchatexample.firebaseio.com",
+    "project_id": "inbmchatexample",
+    "storage_bucket": "inbmchatexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026805461563:android:dcfad90c384c2f46",
+        "android_client_info": {
+          "package_name": "com.inbm.chattingexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026805461563-re6lsj4l49n2ncvmnuc5od11ropf621f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inbm.chattingexample",
+            "certificate_hash": "bea8fdd32235e7431f896129590ee1b835838e9c"
+          }
+        },
+        {
+          "client_id": "1026805461563-5igqb5qcr91isfnv9e6ur5nkjgtf15er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4t_pxIJ8oDil7jT0zUHU1_y9KqqcB4j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026805461563-5igqb5qcr91isfnv9e6ur5nkjgtf15er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
